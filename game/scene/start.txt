@@ -1,0 +1,6 @@
+bgm:cutmusic.mp3;
+changeBg:IMG_5161.JPG;
+:这座位于澳大利亚的的海湾小镇是我工作的地方。 -fontSize=default;
+:小镇人烟稀少，气候温暖而宜居。每年的六月到十一月，这里会成为座头鲸迁徙的中转站，你能轻易观察到它们如何用腔口喷出水雾。 -fontSize=default;
+:湛蓝色的海水通过瓶颈般的弧形海岸冲上米白色的沙滩，留下这种可爱生灵的独家邮戳。 -fontSize=default;
+callScene:警局.txt

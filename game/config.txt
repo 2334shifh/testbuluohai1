@@ -1,0 +1,6 @@
+Game_name:不落海;
+Game_key:b549dccadd5c828;
+Title_img:IMG_5161.JPG;
+Title_bgm:s_Title.mp3;
+Textbox_theme:imss;
+Game_Logo:IMG_5161.JPG;
